@@ -7009,6 +7009,36 @@ body {
 .cid-rau4E6wr3p blockquote {
   color: #767676;
 }
+.cid-rauwzZnLFt {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rauwzZnLFt .image-block {
+  margin: auto;
+}
+.cid-rauwzZnLFt figcaption {
+  position: relative;
+}
+.cid-rauwzZnLFt figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rauwzZnLFt .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rauwRHTa1t {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rauwRHTa1t .mbr-text,
+.cid-rauwRHTa1t blockquote {
+  color: #767676;
+}
 .cid-raufCeOZXB {
   padding-top: 15px;
   padding-bottom: 60px;
