@@ -751,7 +751,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"problema.html\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/d1f9abb0442d4174ab95a8241e138700-1280x934.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ajp-3205-2000x1333.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -761,7 +761,7 @@
                 "customStyle1": "display-5",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "JOAQUÍN PRODUCE ANEMIA EN EL PERÚ",
+                "title": "JOAQUÍN LE PROVOCA ANEMIA AL PERÚ",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<i>Fuente:<b><a href=\"biblio.html\"> </a></b><a href=\"biblio.html\" class=\"text-white\">Grupo de Análisis para el desarrollo. 2013</a></i>",
