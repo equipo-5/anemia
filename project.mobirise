@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Equipo 5 - GPI - 1",
-    "currentPage": "fuente.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "uniqCompNum": 73,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-pucp-version2-negro-soloescudo-128x127-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-pucp-version2-negro-soloescudo-128x127.png",
     "noImageResize": ""
   },
   "pages": {
